@@ -1,9 +1,9 @@
 Simple script that checks if a word is a palindrome.
 
 
-##Data Structures and Algorithms in JavaScript 
+## Data Structures and Algorithms in JavaScript 
 
-##Stacks
+### Stacks
 
 A stack is a basic data structure where you can only insert or delete items at the top of the stack. It is kind of similar to a stack of books. If you want to look at a book in the middle of the stack you must take all of the books above it off first.
 
