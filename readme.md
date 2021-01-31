@@ -8,7 +8,7 @@ The stack is considered LIFO (Last In First Out) — meaning the last item you p
 
 There are three main operations that can be performed on stacks: inserting an item into a stack (called ‘push’), deleting an item from the stack (called ‘pop’), and displaying the contents of the stack (sometimes called ‘pip’).
 
-**In our script we check if a word is a palindrome. Palindrome is a word that is the same if it is written backwards.**
+**In our script we check if a word is a palindrome. Palindrome is a word that is the same if it is written backwards (e.g. racecar, anna, bob etc.)**
 
 ![](https://cdn-media-1.freecodecamp.org/images/0*kAUG_JFNvKLpPs-7.png)
 
